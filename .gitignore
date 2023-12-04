@@ -1,3 +1,6 @@
 # Gitignore file
 !.gitignore
 *.exe
+*.csproj
+/cs/bot/bin/
+/cs/bot/obj/
